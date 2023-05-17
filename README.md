@@ -6,4 +6,4 @@ This is project related to Quantitative finance. The python file starting with b
 4) ## Monte-Carlo simulations
 5) ## Value-at-Risk (VaR)
 6) ## Black-Scholes Model
-Link to Presentation 
+
